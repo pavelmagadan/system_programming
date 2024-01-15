@@ -1,7 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: calcfiles
-Source: https://github.com/pavelmagadan/system_programming
-
-Files: *
-Copyright: (c) 2024 Petrenko Pavel
-License: MIT
